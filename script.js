@@ -54,7 +54,7 @@ function game() {
         console.log(`The computer Won! Player Score: ${playerScore} Computer Score: ${computerScore}`);
     }
     if (playerScore === computerScore) {
-        console.log(`Both are same Player Score: ${playerScore} Computer Score: ${computerScore}`);
+        console.log(`It's a Tie. Both scores are same Player Score: ${playerScore} Computer Score: ${computerScore}`);
     }
 }
 
